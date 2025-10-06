@@ -18,9 +18,10 @@ Dies ist eine einfache, aber hübsche To-Do-App mit Prioritäten, Speichern/Lade
 6. „Speichern“ oder „Laden“ klicken
 
 ## 📦 Installation
-Python 3.x installieren – Tkinter ist in der Regel bereits enthalten.
+💡 Hinweis: Dieses Projekt ist nicht direkt über GitHub ausführbar. 
+Voraussetzung: Python 3.x installiert. Tkinter ist meist schon enthalten.
 
-Einfach testen:
+Zum Ausführen bitte lokal herunterladen und starten:
 ```bash
 python todo_gui.py
 ```
@@ -40,6 +41,7 @@ Erstellt von Serena – mit viel Spaß und Lernfreude 😄
 ## 📄 Lizenz
 
 Dieses Projekt kann frei verwendet und angepasst werden – für Lernzwecke, Spaß und persönliche Weiterentwicklung.
+
 
 
 
